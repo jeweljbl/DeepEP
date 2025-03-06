@@ -1,3 +1,4 @@
+text/0000-compressed-nft-standard.md
 # DeepEP
 
 DeepEP is a communication library tailored for Mixture-of-Experts (MoE) and expert parallelism (EP). It provides high-throughput and low-latency all-to-all GPU kernels, which are also as known as MoE dispatch and combine. The library also supports low-precision operations, including FP8.
